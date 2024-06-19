@@ -36,7 +36,7 @@ const Gallery: React.FC = () => {
 
       if (data) {
         Object.keys(data)
-          .sort((a, b) => b.localeCompare(a)) // Sort keys in descending order
+          .sort((a, b) => b.localeCompare(a)) 
           .forEach((key) => {
             const { img, content, name, timestamp } = data[key];
             postits.push({ id: key, img, content, name, timestamp });

@@ -27,7 +27,8 @@
 
 .viewGallery{
   position: absolute;
-  margin-left: 86%;
+  margin-left: 83.3%;
+  cursor: pointer;
   font-size: 30px;
   margin-top: 2.5%;
   color: #12619C;
@@ -82,18 +83,18 @@
 .h1{
   font-size: 100px;
   height: 10%;
-  margin-top: 70%;
-  margin-left: 15%;
+  margin-top: 68%;
+  margin-left: 15vw;
   text-align: left;
-  line-height: 170%;
-  letter-spacing: 13px;
+  line-height: 150%;
+  letter-spacing: 0.5vw;
   color: rgba(35, 24, 21, 0.8);
 }
 .hand,
 .contentPr{
   position: absolute;
-  margin-left: 53%;
-  margin-top: 55%;
+  margin-left: 53vw;
+  margin-top: 95vh;
   
 }
 
@@ -102,19 +103,18 @@
 }
 
 .contentPr{
-  margin-top: 85%;
+  margin-top: 85vw;
   height: 4%;
   text-align: left;
   margin-left: 15%;
-  font-size: 40px;
-  line-height: 80px;
+  font-size: 35px;
+  line-height: 70px;
   font-weight: 100;
   color: rgba(35, 24, 21, 0.8);
 }
 
 .writeBtn{
-  
-  margin-top: 40%;
+  margin-top: 40vw;
   margin-left: 15%;
   height: 8%;
   border-radius: 16px;

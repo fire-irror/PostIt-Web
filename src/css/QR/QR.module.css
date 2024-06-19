@@ -6,8 +6,8 @@
 
 .Logo{
   display: flex;
-  height: 3%;
-  padding: 5%;
+  height: 3vh;
+  padding: 2vw;
 }
 
 .background{
@@ -38,7 +38,7 @@
   letter-spacing: 3px;
   line-height:60px;
   margin-top: 25%;
-  margin-left: 9%;
+  margin-left: 5.5vw;
 }
 
 .span2{
@@ -52,21 +52,21 @@
   border-style: solid;
   border-color: #fff;
   border-radius: 16px;
-  margin-top: 35%;
+  margin-top: 66vh;
   font-size: 30px;
-  width: 20%;
+  width: 20vw;
 }
 
 .title,
 .viewGallery{
   position: absolute;
-  margin-left: 55%;
+  margin-left: 45.5vw;
 }
 
 .QRimg{
   position: absolute;
   width: 45vw;
   height: 45vh;
-  margin: 9.5vw;
+  margin: 3.5vw;
   margin-top: 28.8vh;
 }
